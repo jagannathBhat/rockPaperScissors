@@ -12,7 +12,7 @@ This project is licensed under the terms of the GNU GPLv3 license. A copy of the
 
 ### 1. Download the file
 
-Download the .cpp file [here](https://rawgit.com/jagannathBhat/rockPaperScissors/master/src/rockPaperScissors.cpp).
+Download the .cpp file [here](https://rawgit.com/jagannathBhat/rockPaperScissors/master/rockPaperScissors.cpp).
 
 ### 2. Compile it using a copmiler
 
