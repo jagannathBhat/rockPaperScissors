@@ -27,8 +27,8 @@ Download the .cpp file [here](https://rawgit.com/jagannathBhat/rockPaperScissors
 
 ## Support
 
-E-mail: [jagannathbhat1998@gmail.com](mailto:jagannathbhat1998@gmail.com)
+E-mail: [jagannathbhatjb@gmail.com](mailto:jagannathbhatjb@gmail.com)
 
-Facebook: [facebook.com/jagannathbhat1998](https://facebook.com/jagannathbhat1998)
+Facebook: [facebook.com/jagannathbhatjb](https://facebook.com/jagannathbhatjb)
 
-LinkedIn: [linkedin.com/in/jagannathbhat1998](https://linkedin.com/in/jagannathbhat1998)
+LinkedIn: [linkedin.com/in/jagannathbhatjb](https://linkedin.com/in/jagannathbhatjb)
